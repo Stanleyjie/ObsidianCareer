@@ -1,0 +1,1 @@
+nvm全英文名称是node.js version management，是一个nodejs的版本管理工具，nvm和n都是node.js版本管理工具，为了解决node.js各种版本存在不兼容的现象，可以使用nvm进行安装和切换不同版本的node.js。
