@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Git-.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Question.md",
+                "file": "Git-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Question.md",
+                "file": "Git-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Question.md"
+                "file": "Git-.md"
               }
             }
           }
@@ -172,14 +172,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6c1983fe53a2f455",
+  "active": "a4b48550ee5cc3a9",
   "lastOpenFiles": [
+    "Question.md",
     "Git-.md",
     "Management Method.md",
     "Attachment/Pasted image 20231228101203.png",
     "Attachment/Pasted image 20231228101215.png",
     "Attachment/Pasted image 20231228101227.png",
-    "Question.md",
     "Attachment",
     "NVM.md"
   ]
