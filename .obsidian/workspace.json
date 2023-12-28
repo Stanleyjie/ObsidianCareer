@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4b48550ee5cc3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git-.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8a7f1e14304a61d",
             "type": "leaf",
             "state": {
@@ -32,18 +20,27 @@
             }
           },
           {
-            "id": "6c1983fe53a2f455",
+            "id": "066af12fcc4f2d4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question.md",
+                "file": "Log/2023-12-28.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c63164ed23d9df49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,13 +143,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git-.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "d90d540eb752415f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,14 +169,28 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a4b48550ee5cc3a9",
+  "active": "c63164ed23d9df49",
   "lastOpenFiles": [
-    "Question.md",
-    "Git-.md",
+    "Log/2023-12-28.md",
     "Management Method.md",
+    "Essay.md",
+    "Git-.md",
+    "Excel转Json.md",
+    "Foreign Language/English/Sentence/Sentence.md",
+    "Foreign Language/English/Sentence",
+    "Foreign Language/English/Words/Stuck.md",
+    "Foreign Language/English/Words/Phonetic.md",
+    "Question.md",
+    "Foreign Language/English/Words",
+    "Foreign Language/English",
+    "Foreign Language",
+    "Log/2023-12-29.md",
+    "Log",
     "Attachment/Pasted image 20231228101203.png",
     "Attachment/Pasted image 20231228101215.png",
     "Attachment/Pasted image 20231228101227.png",

@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "baseFontSize": 12
+  "baseFontSize": 14,
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "translucency": true
 }
