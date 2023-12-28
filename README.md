@@ -1,0 +1,2 @@
+# ObsidianCareer
+Career Obsidian Notebook
