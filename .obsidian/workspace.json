@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "382fa6080abef8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log/2023-12-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1dd75e4ee7225b41",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "销售折让.md",
+                "file": "Log/2023-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "销售折让.md",
+                "file": "Log/2023-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "销售折让.md"
+                "file": "Log/2023-12-28.md"
               }
             }
           },
@@ -194,14 +206,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "066af12fcc4f2d4a",
+  "active": "382fa6080abef8a0",
   "lastOpenFiles": [
+    "SSL证书.md",
+    "销售折让.md",
     "资产负债表日后事项.md",
     "红字发票.md",
     "Log/2023-12-28.md",
     "电子发票.md",
     "蓝字发票.md",
-    "销售折让.md",
     "销售收入.md",
     "Question.md",
     "Management Method.md",
