@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/2023-12-28.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log/2023-12-28.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log/2023-12-28.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log/2023-12-28.md"
+                "file": "README.md"
               }
             }
           },
@@ -208,15 +208,15 @@
   },
   "active": "382fa6080abef8a0",
   "lastOpenFiles": [
+    "Question.md",
+    "Log/2023-12-28.md",
     "SSL证书.md",
     "销售折让.md",
     "资产负债表日后事项.md",
     "红字发票.md",
-    "Log/2023-12-28.md",
     "电子发票.md",
     "蓝字发票.md",
     "销售收入.md",
-    "Question.md",
     "Management Method.md",
     "NVM.md",
     "Git-.md",
