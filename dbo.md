@@ -1,0 +1,1 @@
+dbo就是Database Owner（即DbOwner，数据库所有者）的缩写。DBO是每个数据库的默认用户，具有所有者权限。
