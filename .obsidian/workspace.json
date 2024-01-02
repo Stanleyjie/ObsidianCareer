@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "57cb330d1a643369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1dd75e4ee7225b41",
             "type": "leaf",
             "state": {
@@ -54,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c63164ed23d9df49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.5
   },
   "right": {
     "id": "6518ec0f30992145",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Log/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Log/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Log/2024-01-02.md"
               }
             }
           },
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,14 +206,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "382fa6080abef8a0",
+  "active": "57cb330d1a643369",
   "lastOpenFiles": [
-    "Question.md",
+    "Log/2023-12-29.md",
+    "Log/2024-01-02.md",
+    "红字发票.md",
     "Log/2023-12-28.md",
+    "README.md",
+    "Attachment/Pasted image 20231229151054.png",
+    "Attachment/Pasted image 20231229135314.png",
+    "Attachment/Pasted image 20231229134016.png",
+    "证书链.md",
+    "Log/2024",
+    "服务器证书.md",
+    "中间证书.md",
+    "根证书.md",
+    "未命名.md",
+    "Templates/WikiT.md",
+    "Templates",
+    "Question.md",
     "SSL证书.md",
     "销售折让.md",
     "资产负债表日后事项.md",
-    "红字发票.md",
     "电子发票.md",
     "蓝字发票.md",
     "销售收入.md",
@@ -221,17 +235,14 @@
     "NVM.md",
     "Git-.md",
     "dbo.md",
-    "README.md",
     "Essay.md",
     "Excel转Json.md",
     "Foreign Language/English/Sentence/Sentence.md",
     "Foreign Language/English/Sentence",
     "Foreign Language/English/Words/Stuck.md",
-    "Foreign Language/English/Words/Phonetic.md",
     "Foreign Language/English/Words",
     "Foreign Language/English",
     "Foreign Language",
-    "Log/2023-12-29.md",
     "Log",
     "Attachment/Pasted image 20231228101203.png",
     "Attachment/Pasted image 20231228101215.png",
