@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/2024-01-02.md",
+                "file": "Log/2024-01-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log/2024-01-02.md",
+                "file": "Log/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log/2024-01-02.md",
+                "file": "Log/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log/2024-01-02.md"
+                "file": "Log/2024-01-03.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "57cb330d1a643369",
   "lastOpenFiles": [
-    "Log/2023-12-29.md",
     "Log/2024-01-02.md",
+    "Log/2024-01-03.md",
+    "Log/2023-12-29.md",
     "红字发票.md",
     "Log/2023-12-28.md",
     "README.md",
@@ -239,7 +240,6 @@
     "Excel转Json.md",
     "Foreign Language/English/Sentence/Sentence.md",
     "Foreign Language/English/Sentence",
-    "Foreign Language/English/Words/Stuck.md",
     "Foreign Language/English/Words",
     "Foreign Language/English",
     "Foreign Language",
