@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Log/2024-01-04.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DR测试计划.md",
+                "file": "Log/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DR测试计划.md",
+                "file": "Log/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DR测试计划.md"
+                "file": "Log/2024-01-04.md"
               }
             }
           },
@@ -218,10 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b4229b714fbb578",
+  "active": "57cb330d1a643369",
   "lastOpenFiles": [
-    "Log/2024-01-04.md",
     "DR测试计划.md",
+    "Log/2024-01-04.md",
     "非病原.md",
     "Log/2024-01-03.md",
     "Log/2024-01-02.md",
