@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "19c661cb6500f74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "销售收入.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "066af12fcc4f2d4a",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Log/2024-01-04.md",
+                "file": "销售收入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Log/2024-01-04.md",
+                "file": "销售收入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Log/2024-01-04.md"
+                "file": "销售收入.md"
               }
             }
           },
@@ -199,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -218,13 +230,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57cb330d1a643369",
+  "active": "19c661cb6500f74f",
   "lastOpenFiles": [
+    "SSL证书.md",
+    "中间证书.md",
+    "增值税.md",
+    "Question.md",
     "DR测试计划.md",
     "Log/2024-01-04.md",
-    "非病原.md",
-    "Log/2024-01-03.md",
     "Log/2024-01-02.md",
+    "Log/2024-01-03.md",
+    "Log/2024-01-05.md",
+    "非病原.md",
     "Log/2023-12-29.md",
     "红字发票.md",
     "Log/2023-12-28.md",
@@ -235,12 +252,9 @@
     "证书链.md",
     "Log/2024",
     "服务器证书.md",
-    "中间证书.md",
     "根证书.md",
     "Templates/WikiT.md",
     "Templates",
-    "Question.md",
-    "SSL证书.md",
     "销售折让.md",
     "资产负债表日后事项.md",
     "电子发票.md",
@@ -249,8 +263,6 @@
     "Management Method.md",
     "NVM.md",
     "Git-.md",
-    "dbo.md",
-    "Essay.md",
     "Foreign Language/English/Sentence",
     "Foreign Language/English/Words",
     "Foreign Language/English",
