@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Log/2024-01-04.md",
+                "file": "Git-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06d944d7a343072e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "销售收入.md",
+                "file": "Git-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "销售收入.md",
+                "file": "Git-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "销售收入.md"
+                "file": "Git-.md"
               }
             }
           },
@@ -230,14 +242,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19c661cb6500f74f",
+  "active": "57cb330d1a643369",
   "lastOpenFiles": [
+    "未命名.md",
+    "Question.md",
+    "NVM.md",
+    "电子发票.md",
+    "Templates/WikiT.md",
+    "根证书.md",
+    "DR测试计划.md",
+    "Log/2024-01-09.md",
+    "Log/2024-01-08.md",
+    "Log/2024-01-04.md",
+    "销售收入.md",
     "SSL证书.md",
     "中间证书.md",
     "增值税.md",
-    "Question.md",
-    "DR测试计划.md",
-    "Log/2024-01-04.md",
     "Log/2024-01-02.md",
     "Log/2024-01-03.md",
     "Log/2024-01-05.md",
@@ -252,17 +272,9 @@
     "证书链.md",
     "Log/2024",
     "服务器证书.md",
-    "根证书.md",
-    "Templates/WikiT.md",
     "Templates",
     "销售折让.md",
     "资产负债表日后事项.md",
-    "电子发票.md",
-    "蓝字发票.md",
-    "销售收入.md",
-    "Management Method.md",
-    "NVM.md",
-    "Git-.md",
     "Foreign Language/English/Sentence",
     "Foreign Language/English/Words",
     "Foreign Language/English",
